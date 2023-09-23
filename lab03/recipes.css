@@ -1,0 +1,41 @@
+body {
+	background-color: green;
+}
+h1 {
+	font-style: italic;
+	text-transform: uppercase;
+	color: navy;
+	margin-left: 20px;
+}
+h2 {
+	color: navy;
+	margin-left: 20px;
+}
+img{
+	display: inline-block;
+	width: 1065px;
+	height: 1065px;
+	background-image: url(images/FrenchToast.jpg);
+}
+
+h3 {
+	color: purple;
+	margin-left: 20px;
+}
+h4 {
+	color: purple;
+	margin-left: 20px;
+}
+li {
+	color: white;
+	margin-left: 40px;
+}
+ol {
+	color: white;
+	margin-left: 20px;
+}
+p {
+	font-family: Times New Roman, sans-serif;
+	font-style: italic;
+	font-weight: bold;
+}
